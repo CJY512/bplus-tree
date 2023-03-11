@@ -1,0 +1,4 @@
+﻿  btree.cpp
+C:\Users\Administrator\source\repos\DB_b+tree\DB_b+tree\btree.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\Administrator\source\repos\DB_b+tree\DB_b+tree\btree.cpp : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  DB_b+tree.vcxproj -> C:\Users\Administrator\source\repos\DB_b+tree\Debug\DB_b+tree.exe

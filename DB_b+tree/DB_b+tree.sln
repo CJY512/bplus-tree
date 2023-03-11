@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DB_b+tree", "DB_b+tree\DB_b+tree.vcxproj", "{2854A452-0E34-4282-9091-7402221F5E1E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{0D855F48-1DE4-4AEB-A2AD-A1ABC7FCA3EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2854A452-0E34-4282-9091-7402221F5E1E}.Debug|x64.ActiveCfg = Debug|x64
+		{2854A452-0E34-4282-9091-7402221F5E1E}.Debug|x64.Build.0 = Debug|x64
+		{2854A452-0E34-4282-9091-7402221F5E1E}.Debug|x86.ActiveCfg = Debug|Win32
+		{2854A452-0E34-4282-9091-7402221F5E1E}.Debug|x86.Build.0 = Debug|Win32
+		{2854A452-0E34-4282-9091-7402221F5E1E}.Release|x64.ActiveCfg = Release|x64
+		{2854A452-0E34-4282-9091-7402221F5E1E}.Release|x64.Build.0 = Release|x64
+		{2854A452-0E34-4282-9091-7402221F5E1E}.Release|x86.ActiveCfg = Release|Win32
+		{2854A452-0E34-4282-9091-7402221F5E1E}.Release|x86.Build.0 = Release|Win32
+		{0D855F48-1DE4-4AEB-A2AD-A1ABC7FCA3EB}.Debug|x64.ActiveCfg = Debug|x64
+		{0D855F48-1DE4-4AEB-A2AD-A1ABC7FCA3EB}.Debug|x64.Build.0 = Debug|x64
+		{0D855F48-1DE4-4AEB-A2AD-A1ABC7FCA3EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{0D855F48-1DE4-4AEB-A2AD-A1ABC7FCA3EB}.Debug|x86.Build.0 = Debug|Win32
+		{0D855F48-1DE4-4AEB-A2AD-A1ABC7FCA3EB}.Release|x64.ActiveCfg = Release|x64
+		{0D855F48-1DE4-4AEB-A2AD-A1ABC7FCA3EB}.Release|x64.Build.0 = Release|x64
+		{0D855F48-1DE4-4AEB-A2AD-A1ABC7FCA3EB}.Release|x86.ActiveCfg = Release|Win32
+		{0D855F48-1DE4-4AEB-A2AD-A1ABC7FCA3EB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C19EFE92-5A99-485D-A102-FA60C656ECCD}
+	EndGlobalSection
+EndGlobal
